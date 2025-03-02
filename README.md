@@ -3,13 +3,16 @@
 [【笔记】离25年上半年软考还剩100天，积极备考中，文末附备考资料](https://mp.weixin.qq.com/s/GbINsm4GaYE8VjLVDFIa_A)
 
 ## 资料整理
-[备考资料]()
+[备考资料](https://github.com/tyronczt/system_architect/blob/main/resource.md)
 
 # 学习目录
 ## 一、计算机硬件
 [1.1、计算机硬件-CPU&校验码](https://tyron.blog.csdn.net/article/details/145904657)
+
 [1.2、指令系统-存储系统-cache](https://tyron.blog.csdn.net/article/details/145923555)
+
 [1.3、磁盘-输入输出技术-总线](https://blog.csdn.net/tian330726/article/details/145958148)
+
 ## 二、操作系统知识
 ## 三、数据库系统
 ## 四、嵌入式技术
