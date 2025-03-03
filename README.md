@@ -89,7 +89,7 @@
 ![](https://i-blog.csdnimg.cn/img_convert/c25f298c8ad5d7af84f19415a912c94c.png)
 
 # 好好准备，备战25上半年软考
-（中国计算机技术职业资格网：https://www.ruankao.org.cn/article/content/2502121040396048212475606）
+中国计算机技术职业资格网：https://www.ruankao.org.cn/article/content/2502121040396048212475606.html
 
 ![](https://i-blog.csdnimg.cn/img_convert/9fc2b1aa6d30ba8c81638ac0ed1fc014.png)
 
