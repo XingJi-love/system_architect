@@ -14,6 +14,8 @@
 [1.3、磁盘-输入输出技术-总线](https://blog.csdn.net/tian330726/article/details/145958148)
 
 ## 二、操作系统知识
+[2.1、操作系统概述-进程管理-同步互斥](https://blog.csdn.net/tian330726/article/details/145987114)
+
 ## 三、数据库系统
 ## 四、嵌入式技术
 ## 五、计算机网络
