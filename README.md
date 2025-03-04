@@ -16,6 +16,8 @@
 ## 二、操作系统知识
 [2.1、操作系统概述-进程管理-同步互斥](https://blog.csdn.net/tian330726/article/details/145987114)
 
+[2.2、进程调度-死锁-存储管理-固定分页分段](https://tyron.blog.csdn.net/article/details/146017242)
+
 ## 三、数据库系统
 ## 四、嵌入式技术
 ## 五、计算机网络
@@ -24,6 +26,8 @@
 ## 八、信息系统基础知识
 ## 九、系统安全
 [9.1、信息安全基础-技术体系-加密技术](https://blog.csdn.net/tian330726/article/details/145996208)
+
+[9.2、摘要-签名-PKI-访问控制-DOS-欺骗技术](https://tyron.blog.csdn.net/article/details/146014365)
 
 ## 十、软件工程
 ## 十一、面向对象技术
