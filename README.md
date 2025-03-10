@@ -18,6 +18,8 @@
 
 [2.2、进程调度-死锁-存储管理-固定分页分段](https://tyron.blog.csdn.net/article/details/146017242)
 
+[2.3、设备管理-文件管理](https://blog.csdn.net/tian330726/article/details/146149287)
+
 ## 三、数据库系统
 ## 四、嵌入式技术
 ## 五、计算机网络
@@ -31,6 +33,8 @@
 
 ## 十、软件工程
 ## 十一、面向对象技术
+[11.1、面向对象基本概念-分析设计测试](https://tyron.blog.csdn.net/article/details/146149762)
+
 ## 十二、项目管理
 ## 十三、系统架构设计
 ## 十四、软件可靠性基础
