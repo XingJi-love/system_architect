@@ -21,6 +21,11 @@
 [2.3、设备管理-文件管理](https://blog.csdn.net/tian330726/article/details/146149287)
 
 ## 三、数据库系统
+
+[3.1、数据库概述-三级模式-设计-数据模型](https://tyron.blog.csdn.net/article/details/146177359)
+
+[3.2、关系代数-函数依赖-范式](https://tyron.blog.csdn.net/article/details/146179815)
+
 ## 四、嵌入式技术
 ## 五、计算机网络
 ## 六、其他计算机系统基础知识
