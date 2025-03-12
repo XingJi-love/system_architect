@@ -26,6 +26,10 @@
 
 [3.2、关系代数-函数依赖-范式](https://tyron.blog.csdn.net/article/details/146179815)
 
+[3.3、模式分解-事务并发-封锁协议](https://tyron.blog.csdn.net/article/details/146199691)
+
+[3.4、数据库新技术-SQL语言](https://tyron.blog.csdn.net/article/details/146201673)
+
 ## 四、嵌入式技术
 ## 五、计算机网络
 ## 六、其他计算机系统基础知识
