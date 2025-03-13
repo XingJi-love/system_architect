@@ -31,6 +31,11 @@
 [3.4、数据库新技术-SQL语言](https://tyron.blog.csdn.net/article/details/146201673)
 
 ## 四、嵌入式技术
+
+[4.1、嵌入式微处理器-多核处理器](https://tyron.blog.csdn.net/article/details/146227693)
+
+[4.2、嵌入式软件-系统-RTOS-软件开发](https://tyron.blog.csdn.net/article/details/146227788)
+
 ## 五、计算机网络
 ## 六、其他计算机系统基础知识
 ## 七、系统配置与性能评价
