@@ -84,9 +84,9 @@
 ## 十一、面向对象技术
 [11.1、面向对象基本概念-分析设计测试](https://tyron.blog.csdn.net/article/details/146149762)
 
-11.2、统一建模语言UML-事务关系图
+[11.2、统一建模语言UML-事务关系图](https://tyron.blog.csdn.net/article/details/146276213)
 
-11.3、设计模式-新
+[11.3、设计模式-新](https://tyron.blog.csdn.net/article/details/146276329)
 
 ## 十二、项目管理
 
@@ -94,7 +94,7 @@
 
 ## 十三、系统架构设计
 
-13.1、软件架构概述-构件技术
+[13.1、软件架构概述-构件技术](https://tyron.blog.csdn.net/article/details/146276375)
 
 13.2、软件架构风格
 
