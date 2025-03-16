@@ -42,15 +42,15 @@
 
 [5.2、传输介质-通信方式-IP地址-子网划分](https://tyron.blog.csdn.net/article/details/146252531)
 
-5.3、IPv6-网络规划-网络存储-补充考点
+[5.3、IPv6-网络规划-网络存储-补充考点](https://tyron.blog.csdn.net/article/details/146290170)
 
 ## 六、其他计算机系统基础知识
 
-6、其他计算机系统基础知识
+[6、其他计算机系统基础知识](https://tyron.blog.csdn.net/article/details/146290185)
 
 ## 七、系统配置与性能评价
 
-7、系统配置与性能评价
+[7、系统配置与性能评价](https://tyron.blog.csdn.net/article/details/146290196)
 
 ## 八、信息系统基础知识
 
