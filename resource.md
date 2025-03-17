@@ -16,6 +16,10 @@ XMind总结：https://pan.baidu.com/s/1mm1Z21Z52DIRd9qy04wmxQ?pwd=8888
 
 高级架构师：[https://pan.baidu.com/s/1blSEMijdA7ejOXJ7daxmpg?pwd=m14v](https://pan.baidu.com/s/1blSEMijdA7ejOXJ7daxmpg?pwd=m14v)
 
+文老师软考【架构】：https://pan.quark.cn/s/d28e1c47f047
+
+2025软考高级系统架构设计师：https://pan.quark.cn/s/883fbb4dd2e9
+
 ## 达人分享
 [软考-系统架构设计师](https://o8obptw4qh.feishu.cn/docx/OyPcdhn9yovg6KxaAOzccrEJnsh)
 
