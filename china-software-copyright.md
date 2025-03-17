@@ -2,8 +2,6 @@
 
 官网地址：https://www.ccopyright.com.cn/
 
-![官网](https://cdn.nlark.com/yuque/0/2025/png/22165187/1742220609801-f9e1ed97-1e7c-4dff-b525-943deb4522ba.png?x-oss-process=image%2Fformat%2Cwebp)
-
 ## Github 好项目
 
 [Chinese software copyright application template document](https://github.com/AlexanderZhou01/China-software-copyright)

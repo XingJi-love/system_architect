@@ -5,6 +5,10 @@
 ## 资料整理
 [备考资料](https://github.com/tyronczt/system_architect/blob/main/resource.md)
 
+## 软著资料
+
+[计算机软件著作](https://github.com/tyronczt/system_architect/blob/main/china-software-copyright.md)
+
 # 学习目录
 ## 一、计算机硬件
 [1.1、计算机硬件-CPU&校验码](https://tyron.blog.csdn.net/article/details/145904657)
