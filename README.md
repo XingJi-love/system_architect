@@ -58,9 +58,9 @@
 
 ## 八、信息系统基础知识
 
-8.1、信息系统概述-生命周期
+[8.1、信息系统概述-生命周期](https://tyron.blog.csdn.net/article/details/146353110)
 
-8.2、开发方法-TPC-MIS-DSS
+[8.2、开发方法-TPC-MIS-DSS](https://tyron.blog.csdn.net/article/details/146353134)
 
 8.3、ES-OAS-ERP-电子政务-企业信息化
 
