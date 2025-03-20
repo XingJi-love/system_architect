@@ -62,9 +62,9 @@
 
 [8.2、开发方法-TPC-MIS-DSS](https://tyron.blog.csdn.net/article/details/146353134)
 
-8.3、ES-OAS-ERP-电子政务-企业信息化
+[8.3、ES-OAS-ERP-电子政务-企业信息化](https://tyron.blog.csdn.net/article/details/146406162)
 
-8.4、信息化战略规划-CRO-SCM-应用集成-电子商务
+[8.4、信息化战略规划-CRO-SCM-应用集成-电子商务](https://tyron.blog.csdn.net/article/details/146406222)
 
 ## 九、系统安全
 [9.1、信息安全基础-技术体系-加密技术](https://blog.csdn.net/tian330726/article/details/145996208)
