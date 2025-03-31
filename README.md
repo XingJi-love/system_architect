@@ -75,15 +75,15 @@
 
 ## 十、软件工程
 
-10.1、软件工程概述-CMM-软件过程模型-逆向工程
+[10.1、软件工程概述-CMM-软件过程模型-逆向工程](https://tyron.blog.csdn.net/article/details/146704081)
 
-10.2、需求分析-获取-定义-验证-管理
+[10.2、需求分析-获取-定义-验证-管理](https://tyron.blog.csdn.net/article/details/146704203)
 
-10.3、处理流程设计-系统设计-人机界面设计
+[10.3、处理流程设计-系统设计-人机界面设计](https://blog.csdn.net/tian330726/article/details/146764911)
 
-10.4、测试原则-阶段-测试用例设计-调试
+[10.4、测试原则-阶段-测试用例设计-调试](https://tyron.blog.csdn.net/article/details/146764994)
 
-10.5、系统转换-系统维护-净室软件工程-基于构件
+[10.5、系统转换-系统维护-净室软件工程-基于构件](https://tyron.blog.csdn.net/article/details/146798316)
 
 ## 十一、面向对象技术
 [11.1、面向对象基本概念-分析设计测试](https://tyron.blog.csdn.net/article/details/146149762)
