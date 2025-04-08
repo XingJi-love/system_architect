@@ -94,21 +94,19 @@
 
 ## 十二、项目管理
 
-12、项目管理
+[12、项目管理](https://tyron.blog.csdn.net/article/details/147070879)
 
 ## 十三、系统架构设计
 
 [13.1、软件架构概述-构件技术](https://tyron.blog.csdn.net/article/details/146276375)
 
-13.2、软件架构风格
+[13.2、软件层次风格-SOA](https://tyron.blog.csdn.net/article/details/147071144)
 
-13.3、补充-层次风格-SOA
+13.3、架构复用-DSSA-ABSD
 
-13.4、架构复用-DSSA-ABSD
+13.4、质量属性-架构评估
 
-13.5、质量属性-架构评估
-
-13.6、其他架构评估方法-中间件
+13.5、其他架构评估方法-中间件
 
 ## 十四、软件可靠性基础
 
