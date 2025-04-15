@@ -102,9 +102,9 @@
 
 [13.2、软件层次风格-SOA](https://tyron.blog.csdn.net/article/details/147071144)
 
-13.3、架构复用-DSSA-ABSD
+[13.3、架构复用-DSSA-ABSD](https://tyron.blog.csdn.net/article/details/147259452)
 
-13.4、质量属性-架构评估
+[13.4、质量属性-架构评估](https://tyron.blog.csdn.net/article/details/147259601)
 
 13.5、其他架构评估方法-中间件
 
